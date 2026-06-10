@@ -13,3 +13,7 @@ const upi="Integrated upi also"
 console.log(upi)
 
 console.log("Latest Update")
+
+// i am fixing some bugs in the code
+const bugFix="Fixed the login bug"
+console.log(bugFix)
